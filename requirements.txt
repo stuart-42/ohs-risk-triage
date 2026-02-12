@@ -4,5 +4,9 @@ torch
 shap
 pandas
 numpy<2.0
+<<<<<<< HEAD
 matplotlib
 ipython
+=======
+matplotlib
+>>>>>>> ef358a4 (Final dissertation prototype build)
