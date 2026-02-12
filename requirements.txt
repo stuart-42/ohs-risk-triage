@@ -1,0 +1,8 @@
+streamlit
+transformers
+torch
+shap
+pandas
+numpy<2.0
+matplotlib
+ipython
