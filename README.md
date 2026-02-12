@@ -25,7 +25,7 @@ This tool is built as an **Augmented Intelligence** artifact, meaning it support
 ## 🚀 Deployment & Installation
 The application is deployed via **Streamlit Cloud**. To run locally:
 
-1. Clone the repo: `git clone https://github.com/YOUR_USERNAME/YOUR_REPO.git`
+1. Clone the repo: `git clone https://github.com/stuart-42/YOUR_REPO.git`
 2. Install dependencies: `pip install -r requirements.txt`
 3. Launch app: `streamlit run app.py`
 
